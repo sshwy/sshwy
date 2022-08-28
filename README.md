@@ -4,6 +4,7 @@ This is a developer as well as a post competitive programmer from China, now stu
 
 - Go / C / JavaScript
 - Manjaro / zsh / vim / VSCode
+- Interested in a bunch of frontend frameworks
 - Personal Blog: [Sshwy's Notes](https://notes.sshwy.name/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshwy&layout=compact&exclude_repo=backup-pages,sshwy.github.io,OI-Library)](https://github.com/anuraghazra/github-readme-stats)
