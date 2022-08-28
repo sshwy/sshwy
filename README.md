@@ -1,9 +1,9 @@
 # Hi there
 
-I'm a developer as well as a competitive programmer from Sichuan, China.
+This is a developer as well as a post competitive programmer from China, now studying in PKU.
 
-- C++ / JavaScript
-- Manjaro / zsh / vim / VS Code
+- Go / C / JavaScript
+- Manjaro / zsh / vim / VSCode
 - Personal Blog: [Sshwy's Notes](https://notes.sshwy.name/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshwy&layout=compact&exclude_repo=backup-pages,sshwy.github.io,OI-Library)](https://github.com/anuraghazra/github-readme-stats)
