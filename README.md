@@ -1,10 +1,9 @@
 # Hi there
 
-This is a developer as well as a post competitive programmer from China, now studying in PKU.
+This is a developer as well as a retired competitive programmer from China, now studying in PKU.
 
-- Go / C / JavaScript
+- Rust / C / JavaScript / Go / Haskell / Agda / Coq
 - Manjaro / zsh / vim / VSCode
-- Interested in a bunch of frontend frameworks
 - Personal Blog: [Sshwy's Notes](https://notes.sshwy.name/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshwy&layout=compact&exclude_repo=backup-pages,sshwy.github.io,OI-Library)](https://github.com/anuraghazra/github-readme-stats)
